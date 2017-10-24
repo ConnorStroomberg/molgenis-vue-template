@@ -18,8 +18,8 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 $ npm install -g vue-cli
 $ vue init molgenis/molgenis-vue-template my-project
 $ cd my-project
-$ npm install
-$ npm run dev
+$ yarn install
+$ yarn run dev
 ```
 
 ## What's Included
